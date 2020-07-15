@@ -1,0 +1,14 @@
+{
+  "name": "practice20200713",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "author": "shinsuke inoue",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.3"
+  }
+}
